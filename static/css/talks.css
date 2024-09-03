@@ -32,7 +32,7 @@ section {
   display: block;
   width: 100%;
   height: auto;
-  opacity: 0.8;
+  opacity: 0.1;
   filter: brightness(100%) grayscale(0);
   transition: filter 1000ms;
 }
